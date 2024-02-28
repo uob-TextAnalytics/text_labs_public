@@ -1,0 +1,19 @@
+name: text_analytics
+channels:
+  - huggingface
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - gensim>=4.1.2
+  - scikit-learn
+  - datasets
+  - ipywidgets
+  - nltk
+  - matplotlib
+  - pytorch
+  - transformers
+  - scipy
+prefix: /Users/es1595/opt/anaconda3/envs/data_analytics
