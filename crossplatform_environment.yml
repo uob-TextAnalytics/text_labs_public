@@ -9,11 +9,12 @@ dependencies:
   - jupyterlab
   - gensim>=4.1.2
   - scikit-learn
-  - datasets
+  - datasets=2.14.6
   - ipywidgets
   - nltk
   - matplotlib
   - pytorch
   - transformers
   - scipy
+  - python-crfsuite
 prefix: /Users/es1595/opt/anaconda3/envs/data_analytics
