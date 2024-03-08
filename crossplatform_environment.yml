@@ -17,4 +17,5 @@ dependencies:
   - transformers
   - scipy
   - python-crfsuite
+  - accelerate
 prefix: /Users/es1595/opt/anaconda3/envs/data_analytics
