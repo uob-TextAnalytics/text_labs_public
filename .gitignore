@@ -1,4 +1,11 @@
-
+coursework/data_cache
+data_cache/**/*
+*.tagger
+**.tagger
+.virtual_documents
+data_cache/*.lock
+transformer_checkpoints
+model.crf.tagger
 
 .DS_Store
 **/.DS_Store
