@@ -5,11 +5,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.11
   - jupyterlab
   - gensim>=4.1.2
   - scikit-learn
-  - datasets=2.14.6
+  - datasets
   - ipywidgets
   - nltk
   - matplotlib
